@@ -38,7 +38,7 @@ public class BootStrapData implements CommandLineRunner{
 
             if (divisionOpt.isPresent() && countryOpt.isPresent()){
                 Division division = divisionOpt.get();
-                Country country = countryOpt.get();
+                //Country country = countryOpt.get();
 
                 //Sample
                 Customer customer1 = new Customer(division, "123 Main Street", "Jon", "Doe", "558089976", "12345");

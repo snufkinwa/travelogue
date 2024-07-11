@@ -26,6 +26,7 @@ public class CheckoutServiceImpl implements CheckoutService {
         this.cartItemRepository = cartItemRepository;
     }
 
+    @SuppressWarnings("unused")
     @Override
     @Transactional
     public PurchaseResponse checkout(Purchase purchase) {

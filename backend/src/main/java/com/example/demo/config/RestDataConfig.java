@@ -9,7 +9,6 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 /**
  * <h1>RestDataConfig</h1>
  * per course instructions include this code to configure the rest api end-points exposed for the project
- * TODO restrict non-used rest api end points
  * <p>
  *
  * @author WGU Course Materials
