@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/gq76rZY" alt="Travel" style="width:350px">
+<img src="https://imgur.com/gq76rZY.png" alt="Travel" style="width:350px">
 </p>
 
 # Travelogue
